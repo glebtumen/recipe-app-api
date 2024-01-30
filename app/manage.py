@@ -21,4 +21,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-((toNumber(prop("✍️ road map")) + toNumber(prop("👟 Running"))) + toNumber(prop("💤 8hrs of sleep"))) + toNumber(prop("🧘 личные дела"))
